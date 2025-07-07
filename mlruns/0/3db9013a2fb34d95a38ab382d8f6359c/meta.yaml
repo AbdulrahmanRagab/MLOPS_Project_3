@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3db9013a2fb34d95a38ab382d8f6359c/artifacts
+end_time: 1751706954615
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3db9013a2fb34d95a38ab382d8f6359c
+run_name: powerful-hen-746
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751706912739
+status: 4
+tags: []
+user_id: Abdelrahman

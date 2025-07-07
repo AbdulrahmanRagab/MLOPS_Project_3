@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dc7f2bdc06a2469bb65b69c821bf9cef/artifacts
+end_time: 1751707204063
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc7f2bdc06a2469bb65b69c821bf9cef
+run_name: sincere-fish-491
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751707101682
+status: 3
+tags: []
+user_id: Abdelrahman

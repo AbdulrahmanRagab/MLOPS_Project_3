@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Abdelrahman/Documents/Machine%20Learning/MLOPS/Mlops%20Project/mlruns/707790659529708067/a3cc9caa13be43f7b1660cff991a31cd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '707790659529708067'
+lifecycle_stage: active
+run_id: a3cc9caa13be43f7b1660cff991a31cd
+run_name: honorable-moose-950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751824643202
+status: 1
+tags: []
+user_id: Abdelrahman

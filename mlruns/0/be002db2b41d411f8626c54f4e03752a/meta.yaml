@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/be002db2b41d411f8626c54f4e03752a/artifacts
+end_time: 1751895485715
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be002db2b41d411f8626c54f4e03752a
+run_name: handsome-koi-378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751895277348
+status: 3
+tags: []
+user_id: Abdelrahman
